@@ -1,0 +1,8 @@
+geopandas
+jupyter
+tqdm
+folium
+geojson
+turfpy
+matplotlib
+rtree
